@@ -16,5 +16,5 @@ O jogo consiste em três cartas, cada uma representando um "elemento" do Jokenp�
 ## Como executar
 1. Clone o repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` em um navegador desktop.
-3. Ou acesse diretamente pelo GitHub Pages: [jcquaros.github.io/yu-gi-oh](https://jcquaros.github.io/yu-gi-oh)
+3. Ou acesse diretamente pelo GitHub Pages: [jcquadros.github.io/yu-gi-oh](https://jcquadros.github.io/yu-gi-oh)
 
